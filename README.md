@@ -1,0 +1,2 @@
+# string_ispravni
+ 
