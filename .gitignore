@@ -119,6 +119,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+string_demo/
 
 # Spyder project settings
 .spyderproject
