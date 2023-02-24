@@ -33,3 +33,4 @@ print(IP_address_for_print)
 
 IP_address_for_print = f'IP adresa: {hex(first).removeprefix("0x")}.{second}.{third}.{fourth}'
 print(IP_address_for_print)
+
